@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "blocks": [
+    {
+      "id": "b1",
+      "type": "text",
+      "html": "Verifying the fixed publish flow commits cleanly to the repo from the standalone build."
+    }
+  ]
+}
