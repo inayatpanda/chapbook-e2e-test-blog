@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "blocks": [
+    {
+      "id": "b2",
+      "type": "text",
+      "html": "Written from an emulated iPhone during the mobile QA pass."
+    }
+  ]
+}
