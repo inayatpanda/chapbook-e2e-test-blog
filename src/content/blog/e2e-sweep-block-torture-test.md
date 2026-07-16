@@ -17,5 +17,5 @@ A paragraph added straight from the chat composer, plain and simple.
 | r1c1 \| pipe &amp; &lt;i&gt;x&lt;/i&gt; | r1c2 normal |
 
 <div class="embed-16x9">
-  <iframe src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" title="A demo embed &quot;with quotes&quot; & <tags>" loading="lazy" allowfullscreen></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ" title="A demo embed &quot;with quotes&quot; &amp; &lt;tags&gt;" loading="lazy" allowfullscreen></iframe>
 </div>
