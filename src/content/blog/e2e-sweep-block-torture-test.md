@@ -1,13 +1,15 @@
 ---
 title: "E2E Sweep — block torture test"
-description: "E2E Sweep — block torture test"
+description: "A torture-test post exercising every block type & escaping."
 date: 2026-07-16
-tags: []
-accent: "#2dd4bf"
-draft: true
+tags: ["forge"]
+accent: "#f472b6"
+theme: "parchment"
 ---
 
 ## Danger &lt;script&gt;alert('xss')&lt;/script&gt; &amp; "quotes" &lt;b&gt;bold&lt;/b&gt;
+
+A paragraph added straight from the chat composer, plain and simple.
 
 | Cell\|Pipe &lt;script&gt;y&lt;/script&gt; | Head2 &amp; "q" |
 | --- | --- |

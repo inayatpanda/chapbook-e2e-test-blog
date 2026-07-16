@@ -48,16 +48,21 @@
       "ph": "Lift one line that carries the argument — a sentence a reader could quote back to you."
     },
     {
+      "id": "b9",
+      "type": "heading",
+      "level": 2,
+      "text": "Danger <script>alert('xss')</script> & \"quotes\" <b>bold</b>"
+    },
+    {
       "id": "b8",
       "type": "text",
       "html": "",
       "ph": "Close with what follows from all this: a practical implication, an open question, or a position you are willing to defend."
     },
     {
-      "id": "b9",
-      "type": "heading",
-      "level": 2,
-      "text": "Danger <script>alert('xss')</script> & \"quotes\" <b>bold</b>"
+      "id": "b12",
+      "type": "text",
+      "html": "A paragraph added straight from the chat composer, plain and simple."
     },
     {
       "id": "b10",
