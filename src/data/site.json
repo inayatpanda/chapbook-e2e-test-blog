@@ -1,5 +1,5 @@
 {
-  "name": "Your Name",
+  "name": "E2E Sweep Verify Blog",
   "masthead": "Your Blog Name",
   "tagline": "A line about your blog.",
   "description": "A sentence describing your blog — used for SEO and social cards.",
@@ -7,14 +7,43 @@
   "defaultTheme": "observatory",
   "core": "tori",
   "nav": [
-    { "href": "/",             "label": "Home",        "primary": true },
-    { "href": "/observatory/", "label": "Observatory", "primary": true, "themeLabel": true },
-    { "href": "/posts/",     "label": "Posts",       "primary": true },
-    { "href": "/darkroom/",    "label": "Darkroom",    "primary": true },
-    { "href": "/about/",       "label": "About" },
-    { "href": "/contact/",     "label": "Contact" }
+    {
+      "href": "/",
+      "label": "Home",
+      "primary": true
+    },
+    {
+      "href": "/observatory/",
+      "label": "Observatory",
+      "primary": true,
+      "themeLabel": true
+    },
+    {
+      "href": "/darkroom/",
+      "label": "Darkroom",
+      "primary": true
+    },
+    {
+      "href": "/about/",
+      "label": "About",
+      "primary": false
+    },
+    {
+      "href": "/contact/",
+      "label": "Contact",
+      "primary": false
+    }
   ],
-  "socials": { "linkedin": "", "instagram": "", "github": "" },
-  "newsletter": { "endpoint": "https://formspree.io/f/your-id" },
-  "contact": { "endpoint": "https://formspree.io/f/your-id" }
+  "socials": {
+    "linkedin": "",
+    "instagram": "",
+    "github": ""
+  },
+  "newsletter": {
+    "endpoint": "https://formspree.io/f/your-id"
+  },
+  "contact": {
+    "endpoint": "https://formspree.io/f/your-id"
+  },
+  "role": ""
 }
