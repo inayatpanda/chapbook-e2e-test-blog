@@ -6,7 +6,6 @@ tags: ["atlas"]
 accent: "#2dd4bf"
 template: "parchment"
 theme: "parchment"
-draft: true
 ---
 
 This is the **e2e stress** test post exercising _every_ block. It has [a link](https://example.com) and inline `code` plus an ampersand & a < angle to test escaping.
