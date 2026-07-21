@@ -4,6 +4,7 @@ description: "This how-to walks through publishing your first post with Chapbook
 date: 2026-07-21
 tags: []
 accent: "#2dd4bf"
+draft: true
 ---
 
 This how-to walks through publishing your first post with Chapbook, start to finish.
